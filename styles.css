@@ -75,6 +75,7 @@ html{
     background-color: transparent;
     border: 1px solid white;color: white;
     outline: none;
+    cursor:pointer;
     transition: .6s ease;
 }
 .btn:hover{
